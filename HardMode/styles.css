@@ -1,0 +1,6 @@
+#clock {
+	font-size: 100px;
+	color: white;
+	text-align: center;
+	position: relative; top: 50%; margin-top: 300px;
+}
